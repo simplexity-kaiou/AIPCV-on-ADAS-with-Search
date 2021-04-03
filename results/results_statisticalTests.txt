@@ -1,0 +1,3 @@
+           Precision A Precision B
+p-value 1.08E-05  0.0001817
+A12 	1                 1
